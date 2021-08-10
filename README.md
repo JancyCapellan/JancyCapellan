@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JancyCapellan, A recent college graduate that is starting a journey in software development. 
 - I enjoy learning the hidden details behind technology.
-- a modded video game lover espeically modded minecraft. 
+- A modded video game lover especially modded minecraft. 
 
 <!---
 JancyCapellan/JancyCapellan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

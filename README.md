@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JancyCapellan, A recent college graduate that is starting a journey in software development. 
+- 👋 Hi, I’m @JancyCapellan, A Software Engineer that loves the creativite thinking behind technology. 
 - I enjoy learning the hidden details behind technology.
 - A modded video game lover especially modded minecraft. 
 
